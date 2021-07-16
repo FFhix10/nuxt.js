@@ -55,7 +55,7 @@
     "dist"
   ],
   "dependencies": {
-    "@nuxt/cli": "2.14.12",
+    "@nuxt/cli": "2.15.7",
     "@nuxt/config": "^2.14.12",
     "@nuxt/core": "^2.14.12",
     "@nuxt/server": "^2.14.12",
